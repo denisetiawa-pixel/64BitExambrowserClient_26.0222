@@ -1,0 +1,35 @@
+# Konfigurasi dan data sesi lokal
+setting_exambro.json
+eb000.dat
+username.json
+kick.json
+pesan.json
+status.json
+ImageCapture/
+
+# Log aplikasi
+*.log
+log.txt
+cameralog.txt
+updatelog.txt
+
+# Skrip percobaan lokal
+/decode-test.js
+/backup-formatted.js
+/test.js
+/argv.json
+/test-argv.js
+/test-args.js
+/patch.js
+/isolated-test/
+
+# Catatan dan alat lokal
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+PROJECT_NOTES.md
+.cursorrules
+.claude/
+.omp/
+.codex/
+.cursor/

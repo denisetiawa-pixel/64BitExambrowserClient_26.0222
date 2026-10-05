@@ -1,0 +1,21 @@
+{
+  "name": "elekbrowser",
+  "version": "02.12.21",
+  "description": "Browser Untuk Exam Browser - Pusmenjar",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Fijar Hafiizh",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "electron-log": "^4.2.1",
+    "node-datetime": "^2.1.2",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  }
+}
