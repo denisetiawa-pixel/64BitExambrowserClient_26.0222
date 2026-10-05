@@ -1,0 +1,1227 @@
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+Applikasi Browser telah Hilang
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 3100.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Membuka Desktop Baru
+Successfully terminated explorer shell process with PID = 10204.
+Menjalankan Examservices
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+Special keys detected.
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 4176.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Failed to gracefully terminate explorer shell, attempting forceful termination...
+Successfully terminated explorer shell process with PID = 9376.
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Special keys detected.
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 10400.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Failed to gracefully terminate explorer shell, attempting forceful termination...
+Successfully terminated explorer shell process with PID = 26728.
+Menjalankan Examservices
+Menjalankan Kamera
+wmi
+Read Config
+The remote name could not be resolved: 'anbk-webapi.pusmendik.kemendikdasmen.go.id'
+Kode Uniq Tidak Ditemukan
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 22680.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Failed to gracefully terminate explorer shell, attempting forceful termination...
+Successfully terminated explorer shell process with PID = 25216.
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+wmi
+The remote name could not be resolved: 'anbk-webapi.pusmendik.kemendikdasmen.go.id'
+Kode Uniq Tidak Ditemukan
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 9536.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+wmi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Successfully terminated explorer shell process with PID = 17764.
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Special keys detected.
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 31492.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Successfully terminated explorer shell process with PID = 22944.
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Special keys detected.
+wmi
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 13424.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+wmi
+wmi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Failed to gracefully terminate explorer shell, attempting forceful termination...
+Successfully terminated explorer shell process with PID = 13696.
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Special keys detected.
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 11868.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Successfully terminated explorer shell process with PID = 30484.
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Special keys detected.
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 23364.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Successfully terminated explorer shell process with PID = 22936.
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Special keys detected.
+Starting explorer shell process...
+Waiting for explorer shell to initialize...
+Explorer shell successfully started with PID = 29052.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+wmi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Applikasi Browser telah Hilang
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+wmi
+wmi
+wmi
+Special keys detected.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+wmi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Special keys detected.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Special keys detected.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Special keys detected.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+wmi
+wmi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+Special keys detected.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Stop ExamBrowser...
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Applikasi Browser telah Hilang
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+wmi
+wmi
+Special keys detected.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+wmi
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+wmi
+wmi
+wmi
+Special keys detected.
+Applikasi Examservices sudah hilang
+Sudah melakukan Inisiasi
+gettime: The remote name could not be resolved: 'banksoalcbt.pusmendik.kemdikbud.go.id'
+Detail: Mendapatkan Bit64
+Detail: Mendapatkan Moda Ujian
+Detail: Mendapatkan Versi
+Detail: Mendapatkan OS
+Detail: Mendapatkan Ramsize
+Detail: Mendapatkan Getprocessor
+Detail: Mendapatkan Getdisplay
+Detail: Mendapatkan Get Sound
+Detail: Mendapatkan Date Time
+Detail: Mendapatkan Versi, Ram, Processor, Display, Sound, Jam
+Detail: Selesai mendapatkan Versi OS
+Detail: Validasi Monitor
+Detail: Get Ram
+Detail: Applikasi Complete
+Sudah melakukan Inisiasi Spesifikasi
+Button Run Exambrowser Di Klik
+wmi
+Tidak Menyetujui direkam
+Membuka Desktop Baru
+Menjalankan Examservices
+Menjalankan Kamera
+Read Config
+Open Browser
+Run Interlocks
+wmi
+wmi
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Browser telah Hilang
+Applikasi Examservices sudah hilang

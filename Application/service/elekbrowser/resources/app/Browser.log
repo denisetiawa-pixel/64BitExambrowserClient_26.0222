@@ -1,0 +1,1035 @@
+[2023-08-24 07:04:05.773] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\Applikasi\C#\Exambrowser Distribusi\64Bit - Exambrowser_23.0824\Application\service\elekbrowser\pesan.json'
+[2023-08-24 07:04:05.777] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\Applikasi\C#\Exambrowser Distribusi\64Bit - Exambrowser_23.0824\Application\service\elekbrowser\kick.json'
+[2023-08-24 07:04:05.777] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\Applikasi\C#\Exambrowser Distribusi\64Bit - Exambrowser_23.0824\username.json'
+[2023-08-24 07:04:11.677] [info]  respone= 200
+[2023-08-24 07:04:13.880] [info]  dfl=loading close&showpage
+[2023-08-24 07:15:38.050] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\Applikasi\C#\Exambrowser Distribusi\64Bit - Exambrowser_23.0824\Application\service\elekbrowser\pesan.json'
+[2023-08-24 07:15:38.054] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\Applikasi\C#\Exambrowser Distribusi\64Bit - Exambrowser_23.0824\username.json'
+[2023-08-24 07:15:38.054] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\Applikasi\C#\Exambrowser Distribusi\64Bit - Exambrowser_23.0824\Application\service\elekbrowser\kick.json'
+[2023-08-24 07:15:44.238] [info]  respone= 200
+[2023-08-24 07:15:47.517] [info]  dfl=loading close&showpage
+[2024-02-13 09:35:28.727] [info]  respone= 200
+[2024-02-13 09:35:30.638] [info]  dfl=loading close&showpage
+[2024-02-13 09:35:30.640] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-02-13 09:35:30.640] [info]  tidak kirimgambar web login
+[2024-05-04 20:26:36.713] [info]  respone= 200
+[2024-05-04 20:26:38.977] [info]  dfl=loading close&showpage
+[2024-05-04 20:26:38.980] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-05-04 20:26:38.981] [info]  tidak kirimgambar web login
+[2024-05-04 20:32:03.357] [info]  respone= 200
+[2024-05-04 20:32:08.106] [info]  dfl=loading close&showpage
+[2024-05-04 20:32:08.108] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-05-04 20:32:08.109] [info]  tidak kirimgambar web login
+[2024-05-04 20:37:12.635] [info]  respone= 200
+[2024-05-04 20:37:15.998] [info]  dfl=loading close&showpage
+[2024-05-04 20:37:16.000] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-05-04 20:37:16.001] [info]  tidak kirimgambar web login
+[2024-05-04 20:38:16.725] [info]  respone= 200
+[2024-05-04 20:38:18.835] [info]  dfl=loading close&showpage
+[2024-05-04 20:38:18.837] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-05-04 20:38:18.838] [info]  tidak kirimgambar web login
+[2024-05-04 20:39:14.217] [info]  respone= 200
+[2024-05-04 20:39:18.829] [info]  dfl=loading close&showpage
+[2024-05-04 20:39:18.831] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-05-04 20:39:18.831] [info]  tidak kirimgambar web login
+[2024-05-04 20:40:11.507] [info]  respone= 200
+[2024-05-04 20:40:15.950] [info]  dfl=loading close&showpage
+[2024-05-04 20:40:15.951] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-05-04 20:40:15.952] [info]  tidak kirimgambar web login
+[2024-05-04 20:42:27.073] [info]  respone= 200
+[2024-05-04 20:42:29.303] [info]  dfl=loading close&showpage
+[2024-05-04 20:42:29.306] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-05-04 20:42:29.307] [info]  tidak kirimgambar web login
+[2024-08-11 04:35:34.635] [error] CONFIG= {"passwd":"12345","nameapps":"Exambrowser Client","versi":"24.0504","jenisbit":"Bit64","hash64":"1DE9FE7617CF2FB402A926386DE7C79E9FC800A0A712A76160E69066F7A54C0F","hash32":"2E114F0FD12FBCE9AFFA4C414E2332A6DE3FEA55EEA10140B505D80E708DF053","moda":"2","unlockkeys":"LControlKey,C,B","aktifkamera":"1","HeartInterval":600000,"ImageInterval":300000,"StatusInterval":300000,"PesanInterval":300000,"Kegiatan":"2020","Webcam":"0","validwidth":1023,"validheight":719,"validram":1024,"sharingsession":"1","osversion":{"validwin7":"1","validwin8":"1","validwin10":"1","validwin2012":"1","validwin2008":"1"},"urlsemionline":"https://192.168.0.200/","urlonline":"https://anbk-siswa.pusmendik.kemdikbud.go.id","urlfr":"https://smart-production.pusmendik.kemdikbud.go.id/","validdesktop":"0","validparsemi":"FAH","validparonline":"JANU","urlgetagent":"https://anbk-webapi.pusmendik.kemdikbud.go.id/auth/api/v1/user-agent/generate","validseleksi":"0","jenisapps":"radya"}
+[2024-08-11 04:35:34.638] [error] CAM= 1
+[2024-08-11 04:35:34.714] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\pesan.json'
+[2024-08-11 04:35:34.714] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\kick.json'
+[2024-08-11 04:35:34.715] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\username.json'
+[2024-08-11 04:35:35.929] [info]  respone= 200
+[2024-08-11 04:35:37.785] [info]  masuk kedalam url
+[2024-08-11 04:35:37.786] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-08-11 04:35:37.786] [info]  kirim web login 
+[2024-08-11 04:35:37.786] [info]  {"username":"","statuskirim":"1"}
+[2024-08-11 04:36:20.407] [error] CONFIG= {"passwd":"12345","nameapps":"Exambrowser Client","versi":"24.0504","jenisbit":"Bit64","hash64":"1DE9FE7617CF2FB402A926386DE7C79E9FC800A0A712A76160E69066F7A54C0F","hash32":"2E114F0FD12FBCE9AFFA4C414E2332A6DE3FEA55EEA10140B505D80E708DF053","moda":"2","unlockkeys":"LControlKey,C,B","aktifkamera":"1","HeartInterval":600000,"ImageInterval":300000,"StatusInterval":300000,"PesanInterval":300000,"Kegiatan":"2020","Webcam":"-1","validwidth":1023,"validheight":719,"validram":1024,"sharingsession":"1","osversion":{"validwin7":"1","validwin8":"1","validwin10":"1","validwin2012":"1","validwin2008":"1"},"urlsemionline":"https://192.168.0.200/","urlonline":"https://anbk-siswa.pusmendik.kemdikbud.go.id","urlfr":"https://smart-production.pusmendik.kemdikbud.go.id/","validdesktop":"0","validparsemi":"FAH","validparonline":"JANU","urlgetagent":"https://anbk-webapi.pusmendik.kemdikbud.go.id/auth/api/v1/user-agent/generate","validseleksi":"0","jenisapps":"radya"}
+[2024-08-11 04:36:20.409] [error] CAM= 1
+[2024-08-11 04:36:20.461] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\pesan.json'
+[2024-08-11 04:36:20.462] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\kick.json'
+[2024-08-11 04:36:20.462] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\username.json'
+[2024-08-11 04:36:21.653] [info]  respone= 200
+[2024-08-11 04:36:23.455] [info]  masuk kedalam url
+[2024-08-11 04:36:23.455] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-08-11 04:36:23.456] [info]  kirim web login 
+[2024-08-11 04:36:23.456] [info]  {"username":"","statuskirim":"1"}
+[2024-08-11 04:46:28.964] [error] CONFIG= {"passwd":"12345","nameapps":"Exambrowser Client","versi":"24.0504","jenisbit":"Bit64","hash64":"1DE9FE7617CF2FB402A926386DE7C79E9FC800A0A712A76160E69066F7A54C0F","hash32":"2E114F0FD12FBCE9AFFA4C414E2332A6DE3FEA55EEA10140B505D80E708DF053","moda":"1","unlockkeys":"LControlKey,C,B","aktifkamera":"1","HeartInterval":600000,"ImageInterval":300000,"StatusInterval":300000,"PesanInterval":300000,"Kegiatan":"2020","Webcam":"0","validwidth":1023,"validheight":719,"validram":1024,"sharingsession":"1","osversion":{"validwin7":"1","validwin8":"1","validwin10":"1","validwin2012":"1","validwin2008":"1"},"urlsemionline":"https://192.168.0.200/","urlonline":"https://anbk-siswa.pusmendik.kemdikbud.go.id","urlfr":"https://smart-production.pusmendik.kemdikbud.go.id/","validdesktop":"0","validparsemi":"FAH","validparonline":"JANU","urlgetagent":"https://anbk-webapi.pusmendik.kemdikbud.go.id/auth/api/v1/user-agent/generate","validseleksi":"0","jenisapps":"radya"}
+[2024-08-11 04:46:28.966] [error] CAM= 1
+[2024-08-11 04:46:29.018] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\pesan.json'
+[2024-08-11 04:46:29.018] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\kick.json'
+[2024-08-11 04:46:29.019] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\username.json'
+[2024-08-11 04:46:31.758] [info]  respone= 200
+[2024-08-11 04:46:33.174] [info]  masuk kedalam url
+[2024-08-11 04:46:33.175] [info]  https://192.168.0.200/unbk/account/login?ReturnUrl=%2Funbk
+[2024-08-11 04:46:33.175] [info]  kirim web login 
+[2024-08-11 04:46:33.175] [info]  {"username":"","statuskirim":"1"}
+[2024-08-11 04:46:45.720] [info]  null
+[2024-08-11 04:47:19.912] [info]  null
+[2024-08-11 04:47:19.916] [info]  respone= 200
+[2024-08-11 04:47:19.931] [info]  null
+[2024-08-11 04:47:19.932] [info]  null
+[2024-08-11 04:47:19.933] [info]  null
+[2024-08-11 04:47:19.933] [info]  null
+[2024-08-11 04:47:19.978] [info]  null
+[2024-08-11 04:47:19.980] [info]  null
+[2024-08-11 04:47:19.984] [info]  null
+[2024-08-11 04:47:19.985] [info]  null
+[2024-08-11 04:47:20.015] [info]  null
+[2024-08-11 04:47:20.049] [info]  null
+[2024-08-11 04:47:20.328] [info]  masuk kedalam url
+[2024-08-11 04:47:20.328] [info]  https://192.168.0.200/unbk
+[2024-08-11 04:47:20.329] [info]  kirim web login 
+[2024-08-11 04:47:20.329] [info]  {"username":"","statuskirim":"1"}
+[2024-08-11 04:47:20.330] [info]  datausername{"username":"K9901000800152","statuskirim":"1"}
+[2024-08-11 04:55:27.360] [error] CONFIG= {"passwd":"12345","nameapps":"Exambrowser Client","versi":"24.0504","jenisbit":"Bit64","hash64":"1DE9FE7617CF2FB402A926386DE7C79E9FC800A0A712A76160E69066F7A54C0F","hash32":"2E114F0FD12FBCE9AFFA4C414E2332A6DE3FEA55EEA10140B505D80E708DF053","moda":"1","unlockkeys":"LControlKey,C,B","aktifkamera":"1","HeartInterval":600000,"ImageInterval":300000,"StatusInterval":300000,"PesanInterval":300000,"Kegiatan":"2020","Webcam":"0","validwidth":1023,"validheight":719,"validram":1024,"sharingsession":"1","osversion":{"validwin7":"1","validwin8":"1","validwin10":"1","validwin2012":"1","validwin2008":"1"},"urlsemionline":"https://192.168.0.200/","urlonline":"https://anbk-siswa.pusmendik.kemdikbud.go.id","urlfr":"https://smart-production.pusmendik.kemdikbud.go.id/","validdesktop":"0","validparsemi":"FAH","validparonline":"JANU","urlgetagent":"https://anbk-webapi.pusmendik.kemdikbud.go.id/auth/api/v1/user-agent/generate","validseleksi":"0","jenisapps":"radya"}
+[2024-08-11 04:55:27.362] [error] CAM= 1
+[2024-08-11 04:55:27.411] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\pesan.json'
+[2024-08-11 04:55:27.412] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\kick.json'
+[2024-08-11 04:55:27.412] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\username.json'
+[2024-08-11 04:55:28.501] [info]  respone= 200
+[2024-08-11 04:55:29.019] [info]  masuk kedalam url
+[2024-08-11 04:55:29.020] [info]  https://192.168.0.200/unbk/account/login?ReturnUrl=%2Funbk
+[2024-08-11 04:55:29.020] [info]  kirim web login 
+[2024-08-11 04:55:29.020] [info]  {"username":"","statuskirim":"1"}
+[2024-08-11 04:55:59.004] [info]  null
+[2024-08-11 04:56:20.814] [info]  null
+[2024-08-11 04:56:20.829] [info]  respone= 200
+[2024-08-11 04:56:20.843] [info]  null
+[2024-08-11 04:56:20.844] [info]  null
+[2024-08-11 04:56:20.847] [info]  null
+[2024-08-11 04:56:20.855] [info]  null
+[2024-08-11 04:56:20.855] [info]  null
+[2024-08-11 04:56:20.862] [info]  null
+[2024-08-11 04:56:20.868] [info]  null
+[2024-08-11 04:56:20.887] [info]  null
+[2024-08-11 04:56:20.920] [info]  null
+[2024-08-11 04:56:20.961] [info]  null
+[2024-08-11 04:56:21.237] [info]  masuk kedalam url
+[2024-08-11 04:56:21.238] [info]  https://192.168.0.200/unbk
+[2024-08-11 04:56:21.238] [info]  kirim web login 
+[2024-08-11 04:56:21.238] [info]  {"username":"","statuskirim":"1"}
+[2024-08-11 04:56:21.239] [info]  datausername{"username":"K9901000800152","statuskirim":"1"}
+[2024-08-11 05:03:58.770] [error] CONFIG= {"passwd":"12345","nameapps":"Exambrowser Client","versi":"24.0504","jenisbit":"Bit64","hash64":"1DE9FE7617CF2FB402A926386DE7C79E9FC800A0A712A76160E69066F7A54C0F","hash32":"2E114F0FD12FBCE9AFFA4C414E2332A6DE3FEA55EEA10140B505D80E708DF053","moda":"1","unlockkeys":"LControlKey,C,B","aktifkamera":"1","HeartInterval":600000,"ImageInterval":30000,"StatusInterval":30000,"PesanInterval":30000,"Kegiatan":"2020","Webcam":"0","validwidth":1023,"validheight":719,"validram":1024,"sharingsession":"1","osversion":{"validwin7":"1","validwin8":"1","validwin10":"1","validwin2012":"1","validwin2008":"1"},"urlsemionline":"https://192.168.0.200/","urlonline":"https://anbk-siswa.pusmendik.kemdikbud.go.id","urlfr":"https://smart-production.pusmendik.kemdikbud.go.id/","validdesktop":"0","validparsemi":"FAH","validparonline":"JANU","urlgetagent":"https://anbk-webapi.pusmendik.kemdikbud.go.id/auth/api/v1/user-agent/generate","validseleksi":"0","jenisapps":"radya"}
+[2024-08-11 05:03:58.772] [error] CAM= 1
+[2024-08-11 05:03:58.824] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\pesan.json'
+[2024-08-11 05:03:58.824] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\Application\service\elekbrowser\kick.json'
+[2024-08-11 05:03:58.824] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504_FR\username.json'
+[2024-08-11 05:03:59.896] [info]  respone= 200
+[2024-08-11 05:04:00.351] [info]  masuk kedalam url
+[2024-08-11 05:04:00.352] [info]  https://192.168.0.200/unbk/account/login?ReturnUrl=%2Funbk
+[2024-08-11 05:04:00.352] [info]  kirim web login 
+[2024-08-11 05:04:00.353] [info]  {"username":"","statuskirim":"1"}
+[2024-08-11 05:04:14.797] [info]  null
+[2024-08-11 05:04:32.800] [info]  null
+[2024-08-11 05:04:32.818] [info]  respone= 200
+[2024-08-11 05:04:32.835] [info]  null
+[2024-08-11 05:04:32.836] [info]  null
+[2024-08-11 05:04:32.837] [info]  null
+[2024-08-11 05:04:32.837] [info]  null
+[2024-08-11 05:04:32.845] [info]  null
+[2024-08-11 05:04:32.846] [info]  null
+[2024-08-11 05:04:32.873] [info]  null
+[2024-08-11 05:04:32.875] [info]  null
+[2024-08-11 05:04:32.902] [info]  null
+[2024-08-11 05:04:32.930] [info]  null
+[2024-08-11 05:04:33.208] [info]  masuk kedalam url
+[2024-08-11 05:04:33.209] [info]  https://192.168.0.200/unbk
+[2024-08-11 05:04:33.209] [info]  kirim web login 
+[2024-08-11 05:04:33.209] [info]  {"username":"","statuskirim":"1"}
+[2024-08-11 05:04:33.210] [info]  datausername{"username":"K9901000800152","statuskirim":"1"}
+[2024-08-11 05:04:58.858] [error] getapipesan=Error: getaddrinfo ENOTFOUND smart-production.pusmendik.kemdikbud.go.id
+[2024-08-11 05:04:58.858] [error] writestatusjson= Error: getaddrinfo ENOTFOUND smart-production.pusmendik.kemdikbud.go.id
+[2024-08-11 05:05:28.850] [error] getapipesan=Error: getaddrinfo ENOTFOUND smart-production.pusmendik.kemdikbud.go.id
+[2024-08-11 05:05:28.851] [error] writestatusjson= Error: getaddrinfo ENOTFOUND smart-production.pusmendik.kemdikbud.go.id
+[2024-08-11 05:05:58.862] [error] getapipesan=Error: getaddrinfo ENOTFOUND smart-production.pusmendik.kemdikbud.go.id
+[2024-08-11 05:05:58.862] [error] writestatusjson= Error: getaddrinfo ENOTFOUND smart-production.pusmendik.kemdikbud.go.id
+[2024-08-11 09:59:19.483] [error] CAM= 1
+[2024-08-11 09:59:19.559] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504\Application\service\elekbrowser\pesan.json'
+[2024-08-11 09:59:19.559] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504\Application\service\elekbrowser\kick.json'
+[2024-08-11 09:59:19.560] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\VirtualBox\ANBK\files (20240802-221839)\64BitExambrowserClient_24.0504\username.json'
+[2024-08-11 09:59:20.794] [info]  respone= 200
+[2024-08-11 09:59:22.750] [info]  masuk kedalam url
+[2024-08-11 09:59:22.751] [info]  https://anbk-siswa.pusmendik.kemdikbud.go.id/
+[2024-08-11 09:59:22.752] [info]  kirim web login 
+[2024-08-11 09:59:22.752] [info]  {"username":"","statuskirim":"1"}
+[2026-02-22 09:29:48.262] [error] CAM= 1
+[2026-02-22 09:29:48.387] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'D:\Kegiatan\TKA\Simulasi\SD-SMP\Exambro\64BitExambrowserClient_25.0525\Application\service\elekbrowser\pesan.json'
+[2026-02-22 09:29:48.388] [error] ReadKick= Error: ENOENT: no such file or directory, open 'D:\Kegiatan\TKA\Simulasi\SD-SMP\Exambro\64BitExambrowserClient_25.0525\Application\service\elekbrowser\kick.json'
+[2026-02-22 09:29:48.388] [error] Readname= Error: ENOENT: no such file or directory, open 'D:\Kegiatan\TKA\Simulasi\SD-SMP\Exambro\64BitExambrowserClient_25.0525\username.json'
+[2026-02-22 09:29:49.783] [info]  respone= 200
+[2026-02-22 09:29:51.618] [info]  masuk kedalam url
+[2026-02-22 09:29:51.619] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-02-22 09:29:51.620] [info]  kirim web login 
+[2026-02-22 09:29:51.620] [info]  {"username":"","statuskirim":"1"}
+[2026-09-21 10:16:23.997] [error] CAM= 1
+[2026-09-21 10:16:24.924] [error] ReadPesan= Error: ENOENT: no such file or directory, open '\\BAHASA\share ANBK 2024\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-09-21 10:16:24.942] [error] ReadKick= Error: ENOENT: no such file or directory, open '\\BAHASA\share ANBK 2024\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-09-21 10:16:24.959] [error] Readname= Error: ENOENT: no such file or directory, open '\\BAHASA\share ANBK 2024\64BitExambrowserClient_26.0222\username.json'
+[2026-09-21 10:16:26.375] [info]  respone= 200
+[2026-09-21 10:16:42.142] [info]  masuk kedalam url
+[2026-09-21 10:16:42.166] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-09-21 10:16:42.181] [info]  kirim web login 
+[2026-09-21 10:16:42.219] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 07:28:55.345] [error] CAM= 1
+[2026-10-05 07:28:55.691] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\USER\Pictures\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 07:28:55.692] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\USER\Pictures\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 07:28:55.693] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\USER\Pictures\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 07:28:56.909] [info]  respone= 200
+[2026-10-05 07:28:57.736] [info]  masuk kedalam url
+[2026-10-05 07:28:57.737] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 07:28:57.738] [info]  kirim web login 
+[2026-10-05 07:28:57.739] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 07:36:17.004] [info]  undefinedTK0103001802072
+[2026-10-05 07:36:17.013] [info]  username: TK0103001802072
+[2026-10-05 07:36:17.079] [info]  respone= 200
+[2026-10-05 07:36:17.091] [info]  null
+[2026-10-05 07:36:17.092] [info]  null
+[2026-10-05 07:36:17.093] [info]  null
+[2026-10-05 07:36:17.098] [info]  null
+[2026-10-05 07:36:17.115] [info]  null
+[2026-10-05 07:36:17.118] [info]  null
+[2026-10-05 07:36:17.134] [info]  null
+[2026-10-05 07:36:17.168] [info]  null
+[2026-10-05 07:36:17.170] [info]  null
+[2026-10-05 07:36:17.171] [info]  null
+[2026-10-05 07:36:17.186] [info]  null
+[2026-10-05 07:36:17.827] [info]  masuk kedalam url
+[2026-10-05 07:36:17.829] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/konfirmasi-data-peserta
+[2026-10-05 07:36:17.830] [info]  kirim web login TK0103001802072
+[2026-10-05 07:36:17.830] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 07:36:17.868] [info]  datausername{"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 07:36:51.103] [info]  undefinedTK0103001802072
+[2026-10-05 07:36:51.104] [info]  username: TK0103001802072
+[2026-10-05 07:37:02.517] [info]  undefinedTK0103001802072
+[2026-10-05 07:37:02.520] [info]  username: TK0103001802072
+[2026-10-05 07:37:02.705] [info]  null
+[2026-10-05 07:37:02.801] [info]  respone= 200
+[2026-10-05 07:37:02.811] [info]  null
+[2026-10-05 07:37:02.812] [info]  null
+[2026-10-05 07:37:02.813] [info]  null
+[2026-10-05 07:37:02.859] [info]  null
+[2026-10-05 07:37:02.861] [info]  null
+[2026-10-05 07:37:02.872] [info]  null
+[2026-10-05 07:37:02.876] [info]  null
+[2026-10-05 07:37:03.046] [info]  masuk kedalam url
+[2026-10-05 07:37:03.047] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/konfirmasi-tes?detailSequenceNo=452300&sequenceNo=17635
+[2026-10-05 07:37:03.048] [info]  kirim web login TK0103001802072
+[2026-10-05 07:37:03.048] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 07:37:06.568] [info]  null
+[2026-10-05 07:37:06.622] [info]  respone= 200
+[2026-10-05 07:37:06.634] [info]  null
+[2026-10-05 07:37:06.636] [info]  null
+[2026-10-05 07:37:06.637] [info]  null
+[2026-10-05 07:37:06.642] [info]  null
+[2026-10-05 07:37:06.662] [info]  null
+[2026-10-05 07:37:06.677] [info]  null
+[2026-10-05 07:37:06.681] [info]  null
+[2026-10-05 07:37:06.684] [info]  null
+[2026-10-05 07:37:06.686] [info]  null
+[2026-10-05 07:37:06.689] [info]  null
+[2026-10-05 07:37:06.691] [info]  null
+[2026-10-05 07:37:06.692] [info]  null
+[2026-10-05 07:37:06.692] [info]  null
+[2026-10-05 07:37:06.708] [info]  null
+[2026-10-05 07:37:06.710] [info]  null
+[2026-10-05 07:37:06.711] [info]  null
+[2026-10-05 07:37:06.712] [info]  null
+[2026-10-05 07:37:06.714] [info]  null
+[2026-10-05 07:37:06.953] [info]  null
+[2026-10-05 07:37:06.957] [info]  null
+[2026-10-05 07:37:06.962] [info]  null
+[2026-10-05 07:37:06.963] [info]  null
+[2026-10-05 07:37:06.966] [info]  null
+[2026-10-05 07:37:06.990] [info]  null
+[2026-10-05 07:37:07.101] [info]  null
+[2026-10-05 07:37:07.102] [info]  null
+[2026-10-05 07:37:07.184] [error] getapipesan=null
+[2026-10-05 07:37:07.191] [error] writestatusjson= null
+[2026-10-05 07:37:07.255] [info]  masuk kedalam url
+[2026-10-05 07:37:07.256] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/soal?sequenceNo=17635&tesSequenceNo=211213
+[2026-10-05 07:37:07.257] [info]  kirim web login TK0103001802072
+[2026-10-05 07:37:07.258] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 07:37:55.503] [info]  null
+[2026-10-05 07:37:58.314] [info]  null
+[2026-10-05 07:37:58.412] [info]  null
+[2026-10-05 07:37:59.105] [info]  null
+[2026-10-05 07:37:59.277] [info]  null
+[2026-10-05 07:38:26.784] [info]  null
+[2026-10-05 07:39:09.268] [info]  null
+[2026-10-05 07:39:13.505] [info]  null
+[2026-10-05 07:39:32.007] [info]  null
+[2026-10-05 07:39:35.730] [info]  null
+[2026-10-05 07:39:41.414] [info]  null
+[2026-10-05 07:39:41.534] [info]  null
+[2026-10-05 07:39:41.598] [info]  respone= 200
+[2026-10-05 07:39:41.606] [info]  null
+[2026-10-05 07:39:41.625] [info]  null
+[2026-10-05 07:39:41.626] [info]  null
+[2026-10-05 07:39:41.648] [info]  null
+[2026-10-05 07:39:41.649] [info]  null
+[2026-10-05 07:39:41.658] [info]  null
+[2026-10-05 07:39:41.659] [info]  null
+[2026-10-05 07:39:41.661] [info]  null
+[2026-10-05 07:39:41.681] [info]  masuk kedalam url
+[2026-10-05 07:39:41.682] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/test-selesai-direct-submit?detailSequenceNo=17635&tesSequenceNo=211213&sequenceNo=17635
+[2026-10-05 07:39:41.683] [info]  kirim web login TK0103001802072
+[2026-10-05 07:39:41.684] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 07:39:43.067] [info]  null
+[2026-10-05 07:39:43.110] [info]  respone= 200
+[2026-10-05 07:39:43.120] [info]  null
+[2026-10-05 07:39:43.121] [info]  null
+[2026-10-05 07:39:43.122] [info]  null
+[2026-10-05 07:39:43.126] [info]  null
+[2026-10-05 07:39:43.127] [info]  null
+[2026-10-05 07:39:43.140] [info]  null
+[2026-10-05 07:39:43.172] [info]  null
+[2026-10-05 07:39:43.202] [info]  null
+[2026-10-05 07:39:43.368] [info]  masuk kedalam url
+[2026-10-05 07:39:43.369] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/konfirmasi-tes?detailSequenceNo=452301&sequenceNo=17635
+[2026-10-05 07:39:43.369] [info]  kirim web login TK0103001802072
+[2026-10-05 07:39:43.369] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 07:40:45.840] [info]  null
+[2026-10-05 07:40:45.911] [info]  respone= 200
+[2026-10-05 07:40:45.921] [info]  null
+[2026-10-05 07:40:45.922] [info]  null
+[2026-10-05 07:40:45.923] [info]  null
+[2026-10-05 07:40:45.929] [info]  null
+[2026-10-05 07:40:45.931] [info]  null
+[2026-10-05 07:40:45.950] [info]  null
+[2026-10-05 07:40:45.952] [info]  null
+[2026-10-05 07:40:45.955] [info]  null
+[2026-10-05 07:40:45.956] [info]  null
+[2026-10-05 07:40:45.958] [info]  null
+[2026-10-05 07:40:45.959] [info]  null
+[2026-10-05 07:40:45.960] [info]  null
+[2026-10-05 07:40:45.961] [info]  null
+[2026-10-05 07:40:45.962] [info]  null
+[2026-10-05 07:40:45.962] [info]  null
+[2026-10-05 07:40:45.963] [info]  null
+[2026-10-05 07:40:45.964] [info]  null
+[2026-10-05 07:40:45.964] [info]  null
+[2026-10-05 07:40:46.259] [info]  null
+[2026-10-05 07:40:46.260] [info]  null
+[2026-10-05 07:40:46.261] [info]  null
+[2026-10-05 07:40:46.262] [info]  null
+[2026-10-05 07:40:46.263] [info]  null
+[2026-10-05 07:40:46.320] [info]  null
+[2026-10-05 07:40:46.333] [info]  null
+[2026-10-05 07:40:46.346] [info]  masuk kedalam url
+[2026-10-05 07:40:46.347] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/soal?sequenceNo=17635&tesSequenceNo=211215
+[2026-10-05 07:40:46.347] [info]  kirim web login TK0103001802072
+[2026-10-05 07:40:46.348] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 07:40:46.752] [info]  null
+[2026-10-05 07:40:46.753] [info]  null
+[2026-10-05 07:40:46.761] [info]  null
+[2026-10-05 07:40:50.277] [info]  null
+[2026-10-05 07:40:54.092] [info]  null
+[2026-10-05 07:40:54.111] [info]  null
+[2026-10-05 07:40:54.115] [info]  null
+[2026-10-05 07:40:54.116] [info]  null
+[2026-10-05 07:40:54.117] [info]  null
+[2026-10-05 07:40:54.118] [info]  null
+[2026-10-05 07:40:58.504] [info]  null
+[2026-10-05 07:41:05.142] [info]  null
+[2026-10-05 07:41:05.143] [info]  null
+[2026-10-05 07:41:19.782] [info]  null
+[2026-10-05 07:42:05.920] [info]  null
+[2026-10-05 07:42:05.922] [info]  null
+[2026-10-05 07:42:07.141] [error] writestatusjson= null
+[2026-10-05 07:42:07.145] [error] getapipesan=null
+[2026-10-05 07:42:10.596] [info]  null
+[2026-10-05 07:42:10.613] [info]  null
+[2026-10-05 07:42:10.616] [info]  null
+[2026-10-05 07:42:10.619] [info]  null
+[2026-10-05 07:42:10.621] [info]  null
+[2026-10-05 07:42:10.622] [info]  null
+[2026-10-05 07:43:12.875] [info]  null
+[2026-10-05 07:43:14.090] [info]  null
+[2026-10-05 07:43:44.090] [info]  null
+[2026-10-05 07:43:44.105] [info]  null
+[2026-10-05 07:43:44.106] [info]  null
+[2026-10-05 07:43:44.108] [info]  null
+[2026-10-05 07:43:44.110] [info]  null
+[2026-10-05 07:43:44.112] [info]  null
+[2026-10-05 07:43:44.113] [info]  null
+[2026-10-05 07:44:19.922] [info]  null
+[2026-10-05 07:44:55.152] [info]  null
+[2026-10-05 07:44:55.171] [info]  null
+[2026-10-05 07:44:55.172] [info]  null
+[2026-10-05 07:44:55.173] [info]  null
+[2026-10-05 07:44:55.175] [info]  null
+[2026-10-05 07:44:55.179] [info]  null
+[2026-10-05 07:44:55.181] [info]  null
+[2026-10-05 07:46:17.846] [info]  null
+[2026-10-05 07:46:27.212] [info]  null
+[2026-10-05 07:46:36.541] [info]  null
+[2026-10-05 07:46:36.543] [info]  null
+[2026-10-05 07:46:38.036] [info]  null
+[2026-10-05 07:46:38.054] [info]  null
+[2026-10-05 07:46:38.055] [info]  null
+[2026-10-05 07:46:38.057] [info]  null
+[2026-10-05 07:46:38.058] [info]  null
+[2026-10-05 07:46:38.059] [info]  null
+[2026-10-05 07:46:44.664] [info]  null
+[2026-10-05 07:47:07.158] [error] writestatusjson= null
+[2026-10-05 07:47:07.163] [error] getapipesan=null
+[2026-10-05 07:47:17.125] [info]  null
+[2026-10-05 07:47:17.126] [info]  null
+[2026-10-05 07:47:18.174] [info]  null
+[2026-10-05 07:47:18.819] [info]  null
+[2026-10-05 07:47:25.776] [info]  null
+[2026-10-05 07:47:25.796] [info]  null
+[2026-10-05 07:47:25.800] [info]  null
+[2026-10-05 07:47:25.801] [info]  null
+[2026-10-05 07:47:25.802] [info]  null
+[2026-10-05 07:47:25.805] [info]  null
+[2026-10-05 07:47:38.183] [info]  null
+[2026-10-05 07:47:46.840] [info]  null
+[2026-10-05 07:47:47.973] [info]  null
+[2026-10-05 07:47:49.299] [info]  null
+[2026-10-05 07:48:05.573] [info]  null
+[2026-10-05 07:48:05.596] [info]  null
+[2026-10-05 07:48:05.600] [info]  null
+[2026-10-05 07:48:05.601] [info]  null
+[2026-10-05 07:48:05.602] [info]  null
+[2026-10-05 07:48:05.603] [info]  null
+[2026-10-05 07:48:05.614] [info]  null
+[2026-10-05 07:48:05.681] [info]  null
+[2026-10-05 07:49:28.247] [info]  null
+[2026-10-05 07:49:37.624] [info]  null
+[2026-10-05 07:49:37.648] [info]  null
+[2026-10-05 07:49:37.651] [info]  null
+[2026-10-05 07:49:37.654] [info]  null
+[2026-10-05 07:49:37.657] [info]  null
+[2026-10-05 07:49:37.659] [info]  null
+[2026-10-05 07:49:37.661] [info]  null
+[2026-10-05 07:49:40.167] [info]  null
+[2026-10-05 07:49:44.078] [info]  null
+[2026-10-05 07:49:48.597] [info]  null
+[2026-10-05 07:49:51.057] [info]  null
+[2026-10-05 07:49:56.235] [info]  null
+[2026-10-05 07:50:01.529] [info]  null
+[2026-10-05 07:50:03.437] [info]  null
+[2026-10-05 07:50:21.489] [info]  null
+[2026-10-05 07:50:21.505] [info]  null
+[2026-10-05 07:50:21.509] [info]  null
+[2026-10-05 07:50:21.510] [info]  null
+[2026-10-05 07:50:21.511] [info]  null
+[2026-10-05 07:50:21.513] [info]  null
+[2026-10-05 07:50:46.694] [info]  null
+[2026-10-05 07:50:47.768] [info]  null
+[2026-10-05 07:50:50.259] [info]  null
+[2026-10-05 07:50:50.902] [info]  null
+[2026-10-05 07:50:52.322] [info]  null
+[2026-10-05 07:50:55.307] [info]  null
+[2026-10-05 07:52:07.345] [error] getapipesan=null
+[2026-10-05 07:52:07.408] [error] writestatusjson= null
+[2026-10-05 07:52:44.838] [info]  null
+[2026-10-05 07:52:44.967] [info]  null
+[2026-10-05 07:52:44.968] [info]  null
+[2026-10-05 07:52:44.971] [info]  null
+[2026-10-05 07:52:44.973] [info]  null
+[2026-10-05 07:52:44.975] [info]  null
+[2026-10-05 07:52:44.984] [info]  null
+[2026-10-05 07:52:51.239] [info]  null
+[2026-10-05 07:53:10.946] [info]  null
+[2026-10-05 07:53:15.231] [info]  null
+[2026-10-05 07:53:25.336] [info]  null
+[2026-10-05 07:53:25.356] [info]  null
+[2026-10-05 07:53:25.397] [info]  null
+[2026-10-05 07:53:25.399] [info]  null
+[2026-10-05 07:53:25.400] [info]  null
+[2026-10-05 07:53:25.401] [info]  null
+[2026-10-05 07:53:30.134] [info]  null
+[2026-10-05 07:53:40.498] [info]  null
+[2026-10-05 07:53:49.527] [info]  null
+[2026-10-05 07:53:52.348] [info]  null
+[2026-10-05 07:53:58.602] [info]  null
+[2026-10-05 07:55:28.522] [info]  null
+[2026-10-05 07:55:28.524] [info]  null
+[2026-10-05 07:56:02.782] [info]  null
+[2026-10-05 07:56:02.806] [info]  null
+[2026-10-05 07:57:07.190] [error] getapipesan=null
+[2026-10-05 07:57:07.228] [error] writestatusjson= null
+[2026-10-05 07:57:40.854] [info]  null
+[2026-10-05 07:57:40.879] [info]  null
+[2026-10-05 07:57:40.881] [info]  null
+[2026-10-05 07:57:40.884] [info]  null
+[2026-10-05 07:57:40.886] [info]  null
+[2026-10-05 07:57:40.888] [info]  null
+[2026-10-05 07:57:40.921] [info]  null
+[2026-10-05 07:57:44.733] [info]  null
+[2026-10-05 07:57:54.950] [info]  null
+[2026-10-05 07:57:54.951] [info]  null
+[2026-10-05 07:57:56.127] [info]  null
+[2026-10-05 07:58:58.081] [info]  null
+[2026-10-05 07:58:58.083] [info]  null
+[2026-10-05 07:59:12.792] [info]  null
+[2026-10-05 08:00:34.172] [info]  null
+[2026-10-05 08:00:34.210] [info]  null
+[2026-10-05 08:00:34.213] [info]  null
+[2026-10-05 08:00:34.215] [info]  null
+[2026-10-05 08:00:34.219] [info]  null
+[2026-10-05 08:00:34.221] [info]  null
+[2026-10-05 08:00:34.244] [info]  null
+[2026-10-05 08:00:55.100] [info]  null
+[2026-10-05 08:01:06.573] [info]  null
+[2026-10-05 08:01:06.592] [info]  null
+[2026-10-05 08:01:06.594] [info]  null
+[2026-10-05 08:01:06.595] [info]  null
+[2026-10-05 08:01:06.596] [info]  null
+[2026-10-05 08:01:06.598] [info]  null
+[2026-10-05 08:01:09.652] [info]  null
+[2026-10-05 08:01:55.558] [info]  null
+[2026-10-05 08:01:56.164] [info]  null
+[2026-10-05 08:02:07.595] [error] getapipesan=null
+[2026-10-05 08:02:07.651] [error] writestatusjson= null
+[2026-10-05 08:04:05.721] [info]  null
+[2026-10-05 08:04:05.723] [info]  null
+[2026-10-05 08:04:38.036] [info]  null
+[2026-10-05 08:04:38.037] [info]  null
+[2026-10-05 08:04:40.646] [info]  null
+[2026-10-05 08:04:55.150] [info]  null
+[2026-10-05 08:06:09.407] [info]  null
+[2026-10-05 08:06:09.409] [info]  null
+[2026-10-05 08:06:11.303] [info]  null
+[2026-10-05 08:06:11.304] [info]  null
+[2026-10-05 08:06:11.880] [info]  null
+[2026-10-05 08:07:03.549] [info]  null
+[2026-10-05 08:07:07.218] [error] getapipesan=null
+[2026-10-05 08:07:07.556] [error] writestatusjson= null
+[2026-10-05 08:07:10.709] [info]  null
+[2026-10-05 08:07:10.755] [info]  null
+[2026-10-05 08:07:10.758] [info]  null
+[2026-10-05 08:07:10.760] [info]  null
+[2026-10-05 08:07:10.764] [info]  null
+[2026-10-05 08:07:10.767] [info]  null
+[2026-10-05 08:07:15.531] [info]  null
+[2026-10-05 08:07:29.012] [info]  null
+[2026-10-05 08:07:30.145] [info]  null
+[2026-10-05 08:07:32.096] [info]  null
+[2026-10-05 08:07:33.719] [info]  null
+[2026-10-05 08:07:53.346] [info]  null
+[2026-10-05 08:07:53.369] [info]  null
+[2026-10-05 08:07:53.371] [info]  null
+[2026-10-05 08:07:53.372] [info]  null
+[2026-10-05 08:07:53.375] [info]  null
+[2026-10-05 08:07:53.377] [info]  null
+[2026-10-05 08:07:53.379] [info]  null
+[2026-10-05 08:07:53.380] [info]  null
+[2026-10-05 08:07:56.119] [info]  null
+[2026-10-05 08:07:57.586] [info]  null
+[2026-10-05 08:08:56.694] [info]  null
+[2026-10-05 08:08:56.760] [info]  null
+[2026-10-05 08:08:56.768] [info]  null
+[2026-10-05 08:08:56.771] [info]  null
+[2026-10-05 08:08:56.774] [info]  null
+[2026-10-05 08:08:56.776] [info]  null
+[2026-10-05 08:08:56.777] [info]  null
+[2026-10-05 08:09:15.484] [info]  null
+[2026-10-05 08:09:17.006] [info]  null
+[2026-10-05 08:09:17.027] [info]  null
+[2026-10-05 08:09:17.030] [info]  null
+[2026-10-05 08:09:17.032] [info]  null
+[2026-10-05 08:09:17.035] [info]  null
+[2026-10-05 08:09:17.037] [info]  null
+[2026-10-05 08:09:25.869] [info]  null
+[2026-10-05 08:09:30.686] [info]  null
+[2026-10-05 08:10:17.476] [info]  null
+[2026-10-05 08:10:17.478] [info]  null
+[2026-10-05 08:10:24.981] [info]  null
+[2026-10-05 08:11:26.261] [info]  null
+[2026-10-05 08:11:26.271] [info]  null
+[2026-10-05 08:11:40.962] [info]  null
+[2026-10-05 08:11:40.963] [info]  null
+[2026-10-05 08:11:41.332] [info]  null
+[2026-10-05 08:12:07.231] [error] getapipesan=null
+[2026-10-05 08:12:07.556] [error] writestatusjson= null
+[2026-10-05 08:13:07.934] [info]  null
+[2026-10-05 08:13:07.936] [info]  null
+[2026-10-05 08:13:09.082] [info]  null
+[2026-10-05 08:13:09.110] [info]  null
+[2026-10-05 08:13:09.112] [info]  null
+[2026-10-05 08:13:09.113] [info]  null
+[2026-10-05 08:13:09.116] [info]  null
+[2026-10-05 08:13:09.117] [info]  null
+[2026-10-05 08:13:23.089] [info]  null
+[2026-10-05 08:14:02.346] [info]  null
+[2026-10-05 08:14:02.367] [info]  null
+[2026-10-05 08:14:02.369] [info]  null
+[2026-10-05 08:14:02.375] [info]  null
+[2026-10-05 08:14:02.378] [info]  null
+[2026-10-05 08:14:02.380] [info]  null
+[2026-10-05 08:14:02.382] [info]  null
+[2026-10-05 08:14:10.067] [info]  null
+[2026-10-05 08:14:13.721] [info]  null
+[2026-10-05 08:14:13.723] [info]  null
+[2026-10-05 08:14:14.871] [info]  null
+[2026-10-05 08:14:18.165] [info]  null
+[2026-10-05 08:14:28.776] [info]  null
+[2026-10-05 08:14:29.509] [info]  null
+[2026-10-05 08:14:31.041] [info]  respone= 200
+[2026-10-05 08:14:31.398] [info]  null
+[2026-10-05 08:14:31.403] [info]  null
+[2026-10-05 08:14:31.409] [info]  null
+[2026-10-05 08:14:31.488] [info]  null
+[2026-10-05 08:14:31.489] [info]  null
+[2026-10-05 08:14:31.533] [info]  null
+[2026-10-05 08:14:31.650] [info]  null
+[2026-10-05 08:14:31.864] [info]  null
+[2026-10-05 08:14:31.868] [info]  null
+[2026-10-05 08:14:31.887] [info]  null
+[2026-10-05 08:14:31.893] [info]  null
+[2026-10-05 08:14:31.907] [info]  null
+[2026-10-05 08:14:32.280] [info]  null
+[2026-10-05 08:14:32.564] [info]  null
+[2026-10-05 08:14:32.595] [info]  null
+[2026-10-05 08:14:32.614] [info]  null
+[2026-10-05 08:14:32.661] [info]  null
+[2026-10-05 08:14:32.743] [info]  masuk kedalam url
+[2026-10-05 08:14:32.745] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/test-selesai-direct-submit?detailSequenceNo=17635&tesSequenceNo=211215&sequenceNo=17635
+[2026-10-05 08:14:32.746] [info]  kirim web login TK0103001802072
+[2026-10-05 08:14:32.746] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 08:14:33.552] [info]  null
+[2026-10-05 08:14:33.620] [info]  respone= 200
+[2026-10-05 08:14:33.970] [info]  null
+[2026-10-05 08:14:34.081] [info]  null
+[2026-10-05 08:14:34.979] [info]  null
+[2026-10-05 08:14:35.004] [info]  null
+[2026-10-05 08:14:35.018] [info]  null
+[2026-10-05 08:14:35.515] [info]  masuk kedalam url
+[2026-10-05 08:14:35.516] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/konfirmasi-tes?detailSequenceNo=452302&sequenceNo=17635
+[2026-10-05 08:14:35.517] [info]  kirim web login TK0103001802072
+[2026-10-05 08:14:35.518] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 08:15:40.296] [info]  respone= 200
+[2026-10-05 08:15:40.431] [info]  null
+[2026-10-05 08:15:40.463] [info]  null
+[2026-10-05 08:15:40.465] [info]  null
+[2026-10-05 08:15:40.468] [info]  null
+[2026-10-05 08:15:40.521] [info]  null
+[2026-10-05 08:15:40.527] [info]  null
+[2026-10-05 08:15:40.802] [info]  null
+[2026-10-05 08:15:40.804] [info]  null
+[2026-10-05 08:15:41.023] [info]  null
+[2026-10-05 08:15:41.101] [info]  null
+[2026-10-05 08:15:41.116] [info]  null
+[2026-10-05 08:15:41.508] [info]  null
+[2026-10-05 08:15:41.545] [info]  null
+[2026-10-05 08:15:41.676] [info]  masuk kedalam url
+[2026-10-05 08:15:41.679] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/soal?sequenceNo=17635&tesSequenceNo=211214
+[2026-10-05 08:15:41.681] [info]  kirim web login TK0103001802072
+[2026-10-05 08:15:41.684] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 08:15:42.850] [info]  null
+[2026-10-05 08:15:43.072] [info]  null
+[2026-10-05 08:16:14.473] [info]  null
+[2026-10-05 08:16:29.651] [info]  null
+[2026-10-05 08:16:45.328] [info]  null
+[2026-10-05 08:17:05.301] [info]  null
+[2026-10-05 08:17:07.222] [error] getapipesan=null
+[2026-10-05 08:17:07.567] [error] writestatusjson= null
+[2026-10-05 08:17:21.876] [info]  null
+[2026-10-05 08:17:36.192] [info]  null
+[2026-10-05 08:17:46.845] [info]  null
+[2026-10-05 08:18:54.932] [info]  null
+[2026-10-05 08:19:13.891] [info]  null
+[2026-10-05 08:19:24.006] [info]  null
+[2026-10-05 08:19:56.524] [info]  null
+[2026-10-05 08:20:08.353] [info]  null
+[2026-10-05 08:20:20.720] [info]  null
+[2026-10-05 08:20:39.709] [info]  null
+[2026-10-05 08:20:41.273] [info]  null
+[2026-10-05 08:20:54.649] [info]  null
+[2026-10-05 08:21:02.054] [info]  null
+[2026-10-05 08:21:43.317] [info]  null
+[2026-10-05 08:21:55.222] [info]  null
+[2026-10-05 08:22:07.229] [error] getapipesan=null
+[2026-10-05 08:22:07.569] [error] writestatusjson= null
+[2026-10-05 08:22:08.395] [info]  null
+[2026-10-05 08:22:21.574] [info]  null
+[2026-10-05 08:25:53.527] [info]  null
+[2026-10-05 08:25:53.656] [info]  null
+[2026-10-05 08:25:53.713] [info]  respone= 200
+[2026-10-05 08:25:53.748] [info]  null
+[2026-10-05 08:25:53.768] [info]  masuk kedalam url
+[2026-10-05 08:25:53.769] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/test-selesai-direct-submit?detailSequenceNo=17635&tesSequenceNo=211214&sequenceNo=17635
+[2026-10-05 08:25:53.770] [info]  kirim web login TK0103001802072
+[2026-10-05 08:25:53.771] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 08:25:55.534] [info]  null
+[2026-10-05 08:25:55.592] [info]  respone= 200
+[2026-10-05 08:25:55.666] [info]  null
+[2026-10-05 08:25:55.670] [info]  null
+[2026-10-05 08:25:55.680] [info]  null
+[2026-10-05 08:25:55.744] [info]  masuk kedalam url
+[2026-10-05 08:25:55.745] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/Test/TestSelesai?isfinish=selesai
+[2026-10-05 08:25:55.746] [info]  tidak kirimgambar selesaiTK0103001802072
+[2026-10-05 08:25:55.756] [info]  Error writing to file: undefined
+[2026-10-05 08:25:56.825] [info]  null
+[2026-10-05 08:25:56.898] [info]  respone= 200
+[2026-10-05 08:25:56.928] [info]  null
+[2026-10-05 08:25:56.932] [info]  null
+[2026-10-05 08:25:56.970] [info]  null
+[2026-10-05 08:25:56.971] [info]  null
+[2026-10-05 08:25:57.023] [info]  null
+[2026-10-05 08:25:57.024] [info]  null
+[2026-10-05 08:25:57.025] [info]  null
+[2026-10-05 08:25:57.082] [info]  null
+[2026-10-05 08:25:57.132] [info]  null
+[2026-10-05 08:25:57.207] [info]  null
+[2026-10-05 08:25:57.439] [info]  masuk kedalam url
+[2026-10-05 08:25:57.440] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 08:25:57.441] [info]  kirim web login TK0103001802072
+[2026-10-05 08:25:57.442] [info]  {"username":"TK0103001802072","statuskirim":"1"}
+[2026-10-05 13:40:08.235] [error] CAM= 1
+[2026-10-05 13:40:08.332] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 13:40:08.333] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 13:40:08.334] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 13:40:10.143] [info]  respone= 200
+[2026-10-05 13:40:11.593] [info]  masuk kedalam url
+[2026-10-05 13:40:11.595] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 13:40:11.596] [info]  kirim web login 
+[2026-10-05 13:40:11.597] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 14:03:44.144] [error] CAM= 1
+[2026-10-05 14:03:44.206] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 14:03:44.207] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 14:03:44.207] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 14:03:46.100] [info]  respone= 200
+[2026-10-05 14:03:47.016] [info]  masuk kedalam url
+[2026-10-05 14:03:47.018] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 14:03:47.018] [info]  kirim web login 
+[2026-10-05 14:03:47.019] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 14:05:09.514] [error] CAM= 1
+[2026-10-05 14:05:09.563] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 14:05:09.564] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 14:05:09.564] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 14:05:11.162] [info]  respone= 200
+[2026-10-05 14:05:12.055] [info]  masuk kedalam url
+[2026-10-05 14:05:12.056] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 14:05:12.056] [info]  kirim web login 
+[2026-10-05 14:05:12.057] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 14:07:47.077] [error] CAM= 1
+[2026-10-05 14:07:47.137] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 14:07:47.137] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 14:07:47.138] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 14:07:58.308] [info]  dfl.errcode= -105  errdesc= ERR_NAME_NOT_RESOLVED
+[2026-10-05 14:07:58.329] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 14:07:58.336] [info]  masuk kedalam url
+[2026-10-05 14:07:58.338] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 14:07:58.339] [info]  kirim web login 
+[2026-10-05 14:07:58.340] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 14:07:58.377] [info]  null
+[2026-10-05 14:07:58.438] [info]  null
+[2026-10-05 14:07:58.439] [info]  null
+[2026-10-05 14:08:03.560] [info]  dfl=reload page Menggunakan F5
+[2026-10-05 14:08:10.189] [info]  null
+[2026-10-05 14:08:10.231] [info]  respone= 200
+[2026-10-05 14:08:10.292] [info]  null
+[2026-10-05 14:08:10.294] [info]  null
+[2026-10-05 14:08:10.303] [info]  null
+[2026-10-05 14:08:10.312] [info]  null
+[2026-10-05 14:08:10.351] [info]  null
+[2026-10-05 14:08:10.384] [info]  null
+[2026-10-05 14:08:10.398] [info]  null
+[2026-10-05 14:08:10.403] [info]  null
+[2026-10-05 14:08:10.411] [info]  null
+[2026-10-05 14:08:10.413] [info]  null
+[2026-10-05 14:08:10.442] [info]  null
+[2026-10-05 14:08:10.490] [info]  null
+[2026-10-05 14:08:10.494] [info]  null
+[2026-10-05 14:08:10.500] [info]  null
+[2026-10-05 14:08:10.501] [info]  null
+[2026-10-05 14:08:10.501] [info]  null
+[2026-10-05 14:08:10.502] [info]  null
+[2026-10-05 14:08:10.504] [info]  null
+[2026-10-05 14:08:10.510] [info]  null
+[2026-10-05 14:08:10.521] [info]  null
+[2026-10-05 14:08:10.522] [info]  null
+[2026-10-05 14:08:10.523] [info]  null
+[2026-10-05 14:08:10.524] [info]  null
+[2026-10-05 14:08:10.525] [info]  null
+[2026-10-05 14:08:10.526] [info]  null
+[2026-10-05 14:08:10.552] [info]  null
+[2026-10-05 14:08:10.563] [info]  null
+[2026-10-05 14:08:10.610] [info]  null
+[2026-10-05 14:08:10.620] [info]  null
+[2026-10-05 14:08:10.630] [info]  null
+[2026-10-05 14:08:10.631] [info]  null
+[2026-10-05 14:08:10.709] [info]  null
+[2026-10-05 14:08:10.936] [info]  null
+[2026-10-05 14:08:11.104] [info]  masuk kedalam url
+[2026-10-05 14:08:11.105] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 14:08:11.105] [info]  kirim web login 
+[2026-10-05 14:08:11.106] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 14:10:49.402] [error] CAM= 1
+[2026-10-05 14:10:49.471] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 14:10:49.472] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 14:10:49.472] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 14:10:51.093] [info]  respone= 200
+[2026-10-05 14:10:53.345] [info]  masuk kedalam url
+[2026-10-05 14:10:53.346] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 14:10:53.347] [info]  kirim web login 
+[2026-10-05 14:10:53.347] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 14:13:19.938] [error] CAM= 1
+[2026-10-05 14:13:19.995] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 14:13:19.996] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 14:13:19.996] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 14:13:21.589] [info]  respone= 200
+[2026-10-05 14:13:22.583] [info]  masuk kedalam url
+[2026-10-05 14:13:22.584] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 14:13:22.584] [info]  kirim web login 
+[2026-10-05 14:13:22.585] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 14:21:59.733] [error] CAM= 1
+[2026-10-05 14:21:59.821] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 14:21:59.823] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 14:21:59.825] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 14:22:00.039] [info]  respone= 200
+[2026-10-05 14:22:00.112] [info]  masuk kedalam url
+[2026-10-05 14:22:00.113] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/alt-tab-20261005-141744/fullscreen-probe.html
+[2026-10-05 14:22:00.114] [info]  kirim web login 
+[2026-10-05 14:22:00.114] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 20:46:15.725] [error] CAM= 1
+[2026-10-05 20:46:15.844] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 20:46:15.844] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 20:46:15.845] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 20:46:17.588] [info]  respone= 200
+[2026-10-05 20:46:18.990] [info]  masuk kedalam url
+[2026-10-05 20:46:18.991] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 20:46:18.992] [info]  kirim web login 
+[2026-10-05 20:46:18.993] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 20:47:40.218] [error] CAM= 1
+[2026-10-05 20:47:40.272] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 20:47:40.273] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 20:47:40.273] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 20:47:41.852] [info]  respone= 200
+[2026-10-05 20:47:43.479] [info]  masuk kedalam url
+[2026-10-05 20:47:43.480] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 20:47:43.480] [info]  kirim web login 
+[2026-10-05 20:47:43.481] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 20:49:15.029] [error] CAM= 1
+[2026-10-05 20:49:15.090] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 20:49:15.091] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 20:49:15.091] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 20:49:16.697] [info]  respone= 200
+[2026-10-05 20:49:19.984] [info]  masuk kedalam url
+[2026-10-05 20:49:19.986] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 20:49:19.986] [info]  kirim web login 
+[2026-10-05 20:49:19.987] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 20:54:40.435] [error] CAM= 1
+[2026-10-05 20:54:40.502] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 20:54:40.503] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 20:54:40.503] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 20:54:42.275] [info]  respone= 200
+[2026-10-05 20:54:45.273] [info]  masuk kedalam url
+[2026-10-05 20:54:45.275] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 20:54:45.276] [info]  kirim web login 
+[2026-10-05 20:54:45.276] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 21:17:31.210] [error] CAM= 1
+[2026-10-05 21:17:31.299] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 21:17:31.300] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 21:17:31.301] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 21:17:33.092] [info]  respone= 200
+[2026-10-05 21:17:37.542] [info]  masuk kedalam url
+[2026-10-05 21:17:37.543] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 21:17:37.543] [info]  kirim web login 
+[2026-10-05 21:17:37.544] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 21:18:37.402] [error] CAM= 1
+[2026-10-05 21:18:37.499] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 21:18:37.500] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 21:18:37.501] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 21:18:39.183] [info]  respone= 200
+[2026-10-05 21:18:42.789] [info]  masuk kedalam url
+[2026-10-05 21:18:42.790] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 21:18:42.791] [info]  kirim web login 
+[2026-10-05 21:18:42.791] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 21:27:35.815] [error] CAM= 1
+[2026-10-05 21:27:35.880] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 21:27:35.881] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 21:27:35.881] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 21:27:37.727] [info]  respone= 200
+[2026-10-05 21:27:42.471] [info]  masuk kedalam url
+[2026-10-05 21:27:42.473] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 21:27:42.474] [info]  kirim web login 
+[2026-10-05 21:27:42.475] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 21:52:27.653] [error] CAM= 1
+[2026-10-05 21:52:27.720] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 21:52:27.721] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 21:52:27.722] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 21:52:29.404] [info]  respone= 200
+[2026-10-05 21:52:31.394] [info]  masuk kedalam url
+[2026-10-05 21:52:31.399] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 21:52:31.400] [info]  kirim web login 
+[2026-10-05 21:52:31.401] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 21:53:52.682] [error] CAM= 1
+[2026-10-05 21:53:52.749] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 21:53:52.749] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 21:53:52.750] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 21:53:54.481] [info]  respone= 200
+[2026-10-05 21:53:56.246] [info]  masuk kedalam url
+[2026-10-05 21:53:56.248] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 21:53:56.249] [info]  kirim web login 
+[2026-10-05 21:53:56.251] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 21:54:41.803] [error] CAM= 1
+[2026-10-05 21:54:41.854] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 21:54:41.855] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 21:54:41.855] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 21:54:43.398] [info]  respone= 200
+[2026-10-05 21:54:45.058] [info]  masuk kedalam url
+[2026-10-05 21:54:45.059] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 21:54:45.059] [info]  kirim web login 
+[2026-10-05 21:54:45.059] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 22:02:27.603] [error] CAM= 1
+[2026-10-05 22:02:27.684] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 22:02:27.685] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 22:02:27.686] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 22:02:29.403] [info]  respone= 200
+[2026-10-05 22:02:30.766] [info]  masuk kedalam url
+[2026-10-05 22:02:30.767] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 22:02:30.768] [info]  kirim web login 
+[2026-10-05 22:02:30.768] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 22:09:19.783] [error] CAM= 1
+[2026-10-05 22:09:19.868] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 22:09:19.869] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 22:09:19.869] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 22:09:21.465] [info]  respone= 200
+[2026-10-05 22:09:22.743] [info]  masuk kedalam url
+[2026-10-05 22:09:22.745] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 22:09:22.745] [info]  kirim web login 
+[2026-10-05 22:09:22.746] [info]  {"username":"","statuskirim":"1"}
+[2026-10-05 22:13:45.505] [error] CAM= 1
+[2026-10-05 22:13:45.559] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-05 22:13:45.560] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-05 22:13:45.560] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-05 22:13:47.196] [info]  respone= 200
+[2026-10-05 22:13:48.554] [info]  masuk kedalam url
+[2026-10-05 22:13:48.555] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-05 22:13:48.556] [info]  kirim web login 
+[2026-10-05 22:13:48.557] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 00:38:52.188] [error] CAM= 1
+[2026-10-06 00:38:52.300] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 00:38:52.301] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 00:38:52.302] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-06 00:40:09.483] [error] CAM= 1
+[2026-10-06 00:40:09.560] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 00:40:09.561] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 00:40:09.561] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-06 00:40:09.761] [info]  dfl.errcode= -6  errdesc= ERR_FILE_NOT_FOUND
+[2026-10-06 00:40:09.785] [info]  file:///
+[2026-10-06 00:40:09.820] [info]  masuk kedalam url
+[2026-10-06 00:40:09.822] [info]  file:///
+[2026-10-06 00:40:09.822] [info]  kirim web login 
+[2026-10-06 00:40:09.824] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 00:40:09.897] [info]  null
+[2026-10-06 00:40:09.980] [info]  null
+[2026-10-06 00:40:09.982] [info]  null
+[2026-10-06 00:41:27.075] [error] CAM= 1
+[2026-10-06 00:41:27.133] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 00:41:27.133] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 00:41:27.139] [info]  
+[2026-10-06 00:44:11.059] [error] CAM= 1
+[2026-10-06 00:44:11.128] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 00:44:11.128] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 00:44:11.135] [info]  
+[2026-10-06 00:44:11.311] [info]  respone= 200
+[2026-10-06 00:44:11.418] [info]  masuk kedalam url
+[2026-10-06 00:44:11.419] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/browser-fix-20261006/smoke-probe.html
+[2026-10-06 00:44:11.420] [info]  kirim web login 
+[2026-10-06 00:44:11.420] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 00:46:08.044] [error] CAM= 1
+[2026-10-06 00:46:08.121] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 00:46:08.123] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 00:46:08.133] [info]  
+[2026-10-06 00:46:08.327] [info]  respone= 200
+[2026-10-06 00:46:08.397] [info]  masuk kedalam url
+[2026-10-06 00:46:08.399] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/browser-fix-20261006/smoke-probe.html
+[2026-10-06 00:46:08.399] [info]  kirim web login 
+[2026-10-06 00:46:08.400] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 00:46:24.090] [error] CAM= 1
+[2026-10-06 00:46:24.163] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 00:46:24.164] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 00:46:24.175] [info]  
+[2026-10-06 00:46:24.360] [info]  respone= 200
+[2026-10-06 00:46:24.437] [info]  masuk kedalam url
+[2026-10-06 00:46:24.438] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/browser-fix-20261006/smoke-probe.html
+[2026-10-06 00:46:24.439] [info]  kirim web login 
+[2026-10-06 00:46:24.440] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 00:46:42.784] [error] CAM= 1
+[2026-10-06 00:46:42.855] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 00:46:42.856] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 00:46:42.866] [info]  
+[2026-10-06 00:46:43.047] [info]  respone= 200
+[2026-10-06 00:46:43.119] [info]  masuk kedalam url
+[2026-10-06 00:46:43.121] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/browser-fix-20261006/smoke-probe.html
+[2026-10-06 00:46:43.121] [info]  kirim web login 
+[2026-10-06 00:46:43.122] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 00:49:29.880] [error] ReadConfig= Error: ENOENT: no such file or directory, open 'setting_exambro.json'
+[2026-10-06 00:49:30.122] [info]  respone= 200
+[2026-10-06 00:49:30.193] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/browser-fix-20261006/smoke-probe.html
+[2026-10-06 00:49:30.194] [info]  kirim web login 
+[2026-10-06 00:49:30.195] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 00:50:19.026] [error] ReadConfig= Error: ENOENT: no such file or directory, open 'setting_exambro.json'
+[2026-10-06 00:50:19.415] [info]  respone= 200
+[2026-10-06 00:50:19.509] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/browser-fix-20261006/smoke-probe.html
+[2026-10-06 00:50:19.511] [info]  kirim web login 
+[2026-10-06 00:50:19.512] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 01:19:13.786] [error] CAM= 1
+[2026-10-06 01:19:13.841] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 01:19:13.842] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 01:19:13.842] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-06 01:19:15.465] [info]  respone= 200
+[2026-10-06 01:19:16.787] [info]  masuk kedalam url
+[2026-10-06 01:19:16.788] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-06 01:19:16.789] [info]  kirim web login 
+[2026-10-06 01:19:16.789] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 01:29:04.446] [error] ReadConfig= Error: ENOENT: no such file or directory, open 'setting_exambro.json'
+[2026-10-06 01:29:04.669] [info]  respone= 200
+[2026-10-06 01:29:04.721] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/tests/clipboard/clipboard-probe.html
+[2026-10-06 01:29:04.722] [info]  kirim web login 
+[2026-10-06 01:29:04.722] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 01:29:51.551] [error] ReadConfig= Error: ENOENT: no such file or directory, open 'setting_exambro.json'
+[2026-10-06 01:29:51.775] [info]  respone= 200
+[2026-10-06 01:29:51.835] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/tests/clipboard/clipboard-probe.html
+[2026-10-06 01:29:51.836] [info]  kirim web login 
+[2026-10-06 01:29:51.837] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 01:30:32.598] [error] ReadConfig= Error: ENOENT: no such file or directory, open 'setting_exambro.json'
+[2026-10-06 01:30:32.826] [info]  respone= 200
+[2026-10-06 01:30:32.888] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/tests/clipboard/clipboard-probe.html
+[2026-10-06 01:30:32.889] [info]  kirim web login 
+[2026-10-06 01:30:32.889] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 01:31:48.958] [error] ReadConfig= Error: ENOENT: no such file or directory, open 'setting_exambro.json'
+[2026-10-06 01:31:49.171] [info]  respone= 200
+[2026-10-06 01:31:49.227] [info]  file:///D:/JANGAN%20DIHAPUS%20KALAU%20SUDAH%20DISORTIR/CLAUDE%20SIMPENAN%20BEBAS/64BitExambrowserClient_26.0222/tests/clipboard/clipboard-probe.html
+[2026-10-06 01:31:49.228] [info]  kirim web login 
+[2026-10-06 01:31:49.228] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 01:37:02.723] [error] CAM= 1
+[2026-10-06 01:37:02.779] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 01:37:02.779] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 01:37:02.780] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-06 01:37:04.406] [info]  respone= 200
+[2026-10-06 01:37:05.742] [info]  masuk kedalam url
+[2026-10-06 01:37:05.743] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-06 01:37:05.744] [info]  kirim web login 
+[2026-10-06 01:37:05.745] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 01:44:11.784] [error] CAM= 1
+[2026-10-06 01:44:11.864] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 01:44:11.865] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 01:44:11.865] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-06 01:44:13.656] [info]  respone= 200
+[2026-10-06 01:44:14.973] [info]  masuk kedalam url
+[2026-10-06 01:44:14.974] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-06 01:44:14.976] [info]  kirim web login 
+[2026-10-06 01:44:14.977] [info]  {"username":"","statuskirim":"1"}
+[2026-10-06 06:34:51.565] [error] CAM= 1
+[2026-10-06 06:34:51.635] [error] ReadPesan= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\pesan.json'
+[2026-10-06 06:34:51.636] [error] ReadKick= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\Application\service\elekbrowser\kick.json'
+[2026-10-06 06:34:51.636] [error] Readname= Error: ENOENT: no such file or directory, open 'C:\Users\Axioo Pongo\Music\64BitExambrowserClient_26.0222\username.json'
+[2026-10-06 06:34:53.240] [info]  respone= 200
+[2026-10-06 06:34:53.763] [info]  masuk kedalam url
+[2026-10-06 06:34:53.764] [info]  https://anbk-siswa.pusmendik.kemendikdasmen.go.id/
+[2026-10-06 06:34:53.764] [info]  kirim web login 
+[2026-10-06 06:34:53.765] [info]  {"username":"","statuskirim":"1"}
